@@ -45,6 +45,12 @@ OUTPUT_FILE = "C:\PhD\RailML\Layouts\Example_"+str(i)+"_B.railml"
 ```
 index i was used to select examples, but any name can be used instead, if it exists in \Layouts
 
+3. Function move_signals can be enabled (to avoid signal overlapping) or disabled (to allow signal overllaping)
+```python
+move_signals(signals,nodes,TRUE / FALSE)
+```
+
+
 
 # Directory
 
