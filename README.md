@@ -14,19 +14,19 @@
 <td>Automatic Code Generator (under repairment)</td><td><a href="https://github.com/GICSAFePhD/RailML/tree/main/Layouts/Example_1/Readme.md#description">Link</a></td></tr>
   
 <tr><td rowspan="1" align="center">AGG</td>
-<td>AGG</td><td><a href="https://github.com/GICSAFePhD/RailML/tree/main/Layouts/Example_1/Readme.md#description">Link</a></td></tr>
+<td>Automatic Graphic Generator (to be implemented)</td><td><a href="https://github.com/GICSAFePhD/RailML/tree/main/Layouts/Example_1/Readme.md#description">Link</a></td></tr>
   
 <tr><td rowspan="1" align="center">ATA</td>
-<td>ATA</td><td><a href="https://github.com/GICSAFePhD/RailML/tree/main/Layouts/Example_1/Readme.md#description">Link</a></td></tr>
+<td>Automatic Test Analyzer</td><td><a href="https://github.com/GICSAFePhD/RailML/tree/main/Layouts/Example_1/Readme.md#description">Link</a></td></tr>
   
 <tr><td rowspan="1" align="center">ATG</td>
-<td>ATG</td><td><a href="https://github.com/GICSAFePhD/RailML/tree/main/Layouts/Example_1/Readme.md#description">Link</a></td></tr>
+<td>Automatic Test Generator</td><td><a href="https://github.com/GICSAFePhD/RailML/tree/main/Layouts/Example_1/Readme.md#description">Link</a></td></tr>
   
 <tr><td rowspan="1" align="center">railML</td>
-<td>railML</td><td><a href="https://github.com/GICSAFePhD/RailML/tree/main/Layouts/Example_1/Readme.md#description">Link</a></td></tr>
+<td>railML library</td><td><a href="https://github.com/GICSAFePhD/RailML/tree/main/Layouts/Example_1/Readme.md#description">Link</a></td></tr>
  
 <tr><td rowspan="1" align="center">Layouts</td>
-<td>Layouts</td><td><a href="https://github.com/GICSAFePhD/RailML/tree/main/Layouts/Example_1/Readme.md#description">Link</a></td></tr>  
+<td>Examples</td><td><a href="https://github.com/GICSAFePhD/RailML/tree/main/Layouts/Example_1/Readme.md#description">Link</a></td></tr>  
 
 <!-- Pegar tabla de excel fin -->
 </table>
