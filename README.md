@@ -45,9 +45,14 @@ OUTPUT_FILE = "C:\PhD\RailML\Layouts\Example_"+str(i)+"_B.railml"
 ```
 index i was used to select examples, but any name can be used instead, if it exists in \Layouts
 
-3. Function move_signals can be enabled (to avoid signal overlapping) or disabled (to allow signal overllaping)
+3. Function move_signals can be enabled (to avoid signal overlapping) or disabled (to allow signal overllaping).
 ```python
 move_signals(signals,nodes,TRUE / FALSE)
+```
+
+4. Function reduce_signals can be commented to enable / disable signalling simplification.(to avoid signal overlapping) or disabled (to allow signal overllaping)
+```python
+reduce_signals(signals,signal_placement)
 ```
 
 
