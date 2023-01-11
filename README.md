@@ -58,6 +58,12 @@ move_step = 90
 reduce_signals(signals,signal_placement)
 ```
 
+5. The distance for horizontal inheritance can be set in 
+```python
+def signal_simplification_by_proximity(signal_placement,crossing_nodes,platforms_node):
+    distance = 300
+    ...
+```
 
 
 # Directory
