@@ -1,13 +1,10 @@
 # Directory
 
-<table bakground="FFF">
-<tr> <td><b>Example</b></td> <td><b>Section</b></td> <td><b>Repository URL</b></td> </tr>
-<!-- Pegar tabla de excel inicio -->
 
-<tr><td rowspan="2" align="center">0</td>
-<td>Source-code</td><td><a href="https://github.com/GICSAFePhD/Layouts/blob/main/README.md#source-code">Link</a></td></tr>
-<td>Usage</td><td><a href="https://github.com/GICSAFePhD/Layouts/blob/main/README.md#Usage">Link</a></td></tr>
-</table>
+[Source-code](https://github.com/GICSAFePhD/Layouts/blob/main/README.md#source-code)
+
+[Usage](https://github.com/GICSAFePhD/Layouts/blob/main/README.md#Usage)
+
 
 <table bakground="FFF">
 <tr> <td><b>Example</b></td> <td><b>Section</b></td> <td><b>Repository URL</b></td> </tr>
