@@ -80,7 +80,7 @@
  
 <tr><td rowspan="1" align="center">ACG</td>
 <td>Automatic Code Generator (under repairment)</td><td><a href="https://github.com/GICSAFePhD/ACG">Link</a></td></tr>
-  
+<!--  
 <tr><td rowspan="1" align="center">AGG</td>
 <td>Automatic Graphic Generator (to be implemented)</td><td><a href="https://github.com/GICSAFePhD/AGG">Link</a></td></tr>
   
@@ -89,7 +89,7 @@
   
 <tr><td rowspan="1" align="center">ATG</td>
 <td>Automatic Test Generator (to be implemented)</td><td><a href="https://github.com/GICSAFePhD/ATG">Link</a></td></tr>
-  
+-->  
 <tr><td rowspan="1" align="center">railML</td>
 <td>railML library</td><td><a href="https://github.com/GICSAFePhD/railML">Link</a></td></tr>
  
