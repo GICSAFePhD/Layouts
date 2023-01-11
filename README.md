@@ -31,6 +31,21 @@
 <!-- Pegar tabla de excel fin -->
 </table>
 
+## Usage
+
+1. Download the seven folders
+2. In APP/main.py edit INPUT_FILE and OUTPUT_FILE
+* OUTPUT_FILE can be any name with extension .railml
+* INPUT_FILE must exists in \Layouts as a .railml file
+
+```python
+i = 10
+INPUT_FILE  = "C:\PhD\RailML\Layouts\Example_"+str(i)+".railml"
+OUTPUT_FILE = "C:\PhD\RailML\Layouts\Example_"+str(i)+"_B.railml"
+```
+index i was used to select examples, but any name can be used instead, if it exists in \Layouts
+
+
 # Directory
 
 <table bakground="FFF">
