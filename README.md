@@ -101,6 +101,59 @@ def find_signals_crossings(signal_placement,nodes,netPaths,levelCrossingsIS,sign
 ```
 Switches cannot be configured, they use the CDL configuration.
 
+* In find_signals() a full section can be commented to enable / disable the signal generation due to particular rail elements
+```python
+def find_signals(safe_point_file,signal_placement,nodes,netPaths,switchesIS,tracks,trainDetectionElements,borders,bufferStops,levelCrossingsIS,platforms):
+    ...
+    # Find signals for platforms
+    #signals = find_signals_platforms(signal_placement,nodes,netPaths,platforms,signals)
+    #if [*signals] != printed_signals:
+    #    print(f' Creating signals for platforms:{[x for x in [*signals] if x not in printed_signals]}')
+    #printed_signals = [*signals]
+    ...
+```
+In this way, signals due to platforms will not be generated.
+
+It is NOT recommended to edit any other parameter.
+
+4. Run main.py to see the next output (for example 2)
+```
+#################### Starting Railway Network Analyzer ####################
+Reading .railML file  
+Creating railML object
+Analyzing railML object
+ Analyzing graph
+ne14 [-1521, 450] [-560, 450] True >> False
+ne15 [-1521, 300] [-560, 450] True >> False
+ne16 [-560, 450] [516, 450] True >> False
+ne17 [516, 450] [666, 300] True >> False
+ne18 [516, 450] [1521, 450] True >> False
+ne19 [666, 300] [28, 300] False << True
+ne20 [666, 300] [1521, 300] True >> False
+ The network is connected
+ Analyzing infrastructure --> Infrastructure.RNA
+ Detecting Danger --> Safe_points.RNA
+  ne14 has a Platform[plf116] @ [-1075, -450]
+  ne15 has a Curve(2 lines) @ [[-710, 300]]
+  ne16 has a LevelCrossing[lcr120] @ [-192, -450]
+  ne18 has a Platform[plf117] @ [1111, -450]
+  ne19 has a Middle point @ [347.0, 300]
+  ne20 has a Middle point @ [1093.5, 300]
+ Creating Signalling --> Signalling.RNA
+ Creating signals for bufferstops:['sig01', 'sig02']
+ Creating signals for crossings:['sig07', 'sig08']
+ Creating signals for platforms:['sig09', 'sig10', 'sig11', 'sig12']
+ Creating signals for switches:['sig13', 'sig14', 'sig15', 'sig16', 'sig17', 'sig18', 'sig19', 'sig20', 'sig21', 'sig22']
+ Reducing redundant signals
+ No signals found --> Creating new signalling structure
+ Signals structure found!
+ Detecting Routes --> Routes.RNA
+RML object's size: 48 Bytes
+Exporting .railML file
+```
+
+
+
 # Directory
 
 <table bakground="FFF">
