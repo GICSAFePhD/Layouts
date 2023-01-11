@@ -45,7 +45,9 @@ OUTPUT_FILE = "C:\PhD\RailML\Layouts\Example_"+str(i)+"_B.railml"
 ```
 index i was used to select examples, but any name can be used instead, if it exists in \Layouts
 
-3. Function move_signals can be enabled (to avoid signal overlapping) or disabled (to allow signal overllaping).
+3. Set up configuration
+
+* Function move_signals can be enabled (to avoid signal overlapping) or disabled (to allow signal overllaping).
 ```python
 move_signals(signals,nodes,TRUE / FALSE)
 ```
@@ -53,18 +55,51 @@ move_signals(signals,nodes,TRUE / FALSE)
 ```python
 move_step = 90
 ```
-4. Function reduce_signals can be commented to enable / disable signalling simplification.(to avoid signal overlapping) or disabled (to allow signal overllaping)
+* Function reduce_signals can be commented to enable / disable signalling simplification.(to avoid signal overlapping) or disabled (to allow signal overllaping)
 ```python
 reduce_signals(signals,signal_placement)
 ```
-
-5. The distance for horizontal inheritance can be set in 
+* The distance for horizontal inheritance can be set in 
 ```python
 def signal_simplification_by_proximity(signal_placement,crossing_nodes,platforms_node):
     distance = 300
     ...
 ```
+* The distance for CDL zones can be set in 
+```python
+def find_signal_positions(nodes,netPaths,switchesIS,tracks,trainDetectionElements,bufferStops,levelCrossingsIS,platforms):
+    signal_placement = {}
+    step = 200
+    ...
+```
+* The distance for every rail element can be set in their respective functions
 
+```python
+def find_signals_lineborders(netPaths,nodes,borders,signals):
+    step = 100
+    ...
+```
+```python
+def find_signals_bufferStops(netPaths,nodes,bufferStops,signals):
+    step = 100
+    ...
+```
+```python
+def find_signals_joints(signal_placement,nodes,netPaths,trainDetectionElements,signals):
+    distance = 200
+    ...
+```
+```python
+def find_signals_platforms(signal_placement,nodes,netPaths,platforms,signals):
+    distance = 300
+    ...
+```
+```python
+def find_signals_crossings(signal_placement,nodes,netPaths,levelCrossingsIS,signals):
+    distance = 250
+    ...
+```
+Switches cannot be configured, they use the CDL configuration.
 
 # Directory
 
