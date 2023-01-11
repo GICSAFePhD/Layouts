@@ -8,25 +8,25 @@
 <td>Run Main.py to use the full tool</td><td><a href="https://github.com/GICSAFePhD/App">Link</a></td></tr>
   
 <tr><td rowspan="1" align="center">RNA</td>
-<td>Railway Network Analyzer</td><td><a href="https://github.com/GICSAFePhD/RailML/tree/main/Layouts/Example_1/Readme.md#description">Link</a></td></tr>
+<td>Railway Network Analyzer</td><td><a href="https://github.com/GICSAFePhD/RNA">Link</a></td></tr>
  
 <tr><td rowspan="1" align="center">ACG</td>
-<td>Automatic Code Generator (under repairment)</td><td><a href="https://github.com/GICSAFePhD/RailML/tree/main/Layouts/Example_1/Readme.md#description">Link</a></td></tr>
+<td>Automatic Code Generator (under repairment)</td><td><a href="https://github.com/GICSAFePhD/ACG">Link</a></td></tr>
   
 <tr><td rowspan="1" align="center">AGG</td>
-<td>Automatic Graphic Generator (to be implemented)</td><td><a href="https://github.com/GICSAFePhD/RailML/tree/main/Layouts/Example_1/Readme.md#description">Link</a></td></tr>
+<td>Automatic Graphic Generator (to be implemented)</td><td><a href="https://github.com/GICSAFePhD/AGG">Link</a></td></tr>
   
 <tr><td rowspan="1" align="center">ATA</td>
-<td>Automatic Test Analyzer (to be implemented)</td><td><a href="https://github.com/GICSAFePhD/RailML/tree/main/Layouts/Example_1/Readme.md#description">Link</a></td></tr>
+<td>Automatic Test Analyzer (to be implemented)</td><td><a href="https://github.com/GICSAFePhD/ATA">Link</a></td></tr>
   
 <tr><td rowspan="1" align="center">ATG</td>
-<td>Automatic Test Generator (to be implemented)</td><td><a href="https://github.com/GICSAFePhD/RailML/tree/main/Layouts/Example_1/Readme.md#description">Link</a></td></tr>
+<td>Automatic Test Generator (to be implemented)</td><td><a href="https://github.com/GICSAFePhD/ATG">Link</a></td></tr>
   
 <tr><td rowspan="1" align="center">railML</td>
-<td>railML library</td><td><a href="https://github.com/GICSAFePhD/RailML/tree/main/Layouts/Example_1/Readme.md#description">Link</a></td></tr>
+<td>railML library</td><td><a href="https://github.com/GICSAFePhD/railML">Link</a></td></tr>
  
 <tr><td rowspan="1" align="center">Layouts</td>
-<td>Examples</td><td><a href="https://github.com/GICSAFePhD/RailML/tree/main/Layouts/Example_1/Readme.md#description">Link</a></td></tr>  
+<td>Examples</td><td><a href="https://github.com/GICSAFePhD/Layouts">Link</a></td></tr>  
 
 <!-- Pegar tabla de excel fin -->
 </table>
