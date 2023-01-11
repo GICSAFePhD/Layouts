@@ -8,10 +8,10 @@
 <td>Run Main.py to use the full tool</td><td><a href="https://github.com/GICSAFePhD/App">Link</a></td></tr>
   
 <tr><td rowspan="1" align="center">RNA</td>
-<td>RNA</td><td><a href="https://github.com/GICSAFePhD/RailML/tree/main/Layouts/Example_1/Readme.md#description">Link</a></td></tr>
+<td>Railway Network Analyzer</td><td><a href="https://github.com/GICSAFePhD/RailML/tree/main/Layouts/Example_1/Readme.md#description">Link</a></td></tr>
  
 <tr><td rowspan="1" align="center">ACG</td>
-<td>ACG</td><td><a href="https://github.com/GICSAFePhD/RailML/tree/main/Layouts/Example_1/Readme.md#description">Link</a></td></tr>
+<td>Automatic Code Generator (under repairment)</td><td><a href="https://github.com/GICSAFePhD/RailML/tree/main/Layouts/Example_1/Readme.md#description">Link</a></td></tr>
   
 <tr><td rowspan="1" align="center">AGG</td>
 <td>AGG</td><td><a href="https://github.com/GICSAFePhD/RailML/tree/main/Layouts/Example_1/Readme.md#description">Link</a></td></tr>
