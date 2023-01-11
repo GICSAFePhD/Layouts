@@ -49,7 +49,10 @@ index i was used to select examples, but any name can be used instead, if it exi
 ```python
 move_signals(signals,nodes,TRUE / FALSE)
 ```
-
+* The distance to avoid overllaping is set as 90
+```python
+move_step = 90
+```
 4. Function reduce_signals can be commented to enable / disable signalling simplification.(to avoid signal overlapping) or disabled (to allow signal overllaping)
 ```python
 reduce_signals(signals,signal_placement)
