@@ -43,188 +43,28 @@
 		</tr>
 		<tr>
 			<td rowspan="4" align="center">2</td>
-			<td></td>
-			<td></td>
-			<td rowspan="4" align="center">11</td>
-			<td rowspan="4" align="center">5</td>
-			<td rowspan="4" align="center">2</td>
-			<td rowspan="4" align="center">2</td>
-			<td rowspan="4" align="center">29</td>
-			<td rowspan="4" align="center">14</td>
-		</tr>
-		<tr>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr>
-			<td></td>
-			<td></td>
-		</tr>
-    <tr>
-			<td rowspan="4" align="center">3</td>
-			<td></td>
-			<td></td>
-			<td rowspan="4"></td>
-			<td rowspan="4"></td>
-			<td rowspan="4"></td>
-			<td rowspan="4"></td>
-			<td rowspan="4"></td>
-			<td rowspan="4"></td>
-		</tr>
-		<tr>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr>
-			<td></td>
-			<td></td>
-		</tr>
-    <tr>
-			<td rowspan="4" align="center">4</td>
-			<td></td>
-			<td></td>
-			<td rowspan="4"></td>
-			<td rowspan="4"></td>
-			<td rowspan="4"></td>
-			<td rowspan="4"></td>
-			<td rowspan="4"></td>
-			<td rowspan="4"></td>
-		</tr>
-		<tr>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr>
-			<td></td>
-			<td></td>
-		</tr>
-    <tr>
-			<td rowspan="4" align="center">5</td>
-			<td></td>
-			<td></td>
-			<td rowspan="4"></td>
-			<td rowspan="4"></td>
-			<td rowspan="4"></td>
-			<td rowspan="4"></td>
-			<td rowspan="4"></td>
-			<td rowspan="4"></td>
-		</tr>
-		<tr>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr>
-			<td></td>
-			<td></td>
-		</tr>
-    <tr>
-			<td rowspan="4" align="center">6</td>
-			<td></td>
-			<td></td>
-			<td rowspan="4"></td>
-			<td rowspan="4"></td>
-			<td rowspan="4"></td>
-			<td rowspan="4"></td>
-			<td rowspan="4"></td>
-			<td rowspan="4"></td>
-		</tr>
-		<tr>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr>
-			<td></td>
-			<td></td>
-		</tr>
-    <tr>
+			<td>Description</td>
+			<td><a href="https://github.com/GICSAFePhD/RailML/tree/main/Layouts/Example_2/Readme.md#description">Link</a></td>
 			<td rowspan="4" align="center">7</td>
-			<td></td>
-			<td></td>
-			<td rowspan="4"></td>
-			<td rowspan="4"></td>
-			<td rowspan="4"></td>
-			<td rowspan="4"></td>
-			<td rowspan="4"></td>
-			<td rowspan="4"></td>
+			<td rowspan="4" align="center">3</td>
+			<td rowspan="4" align="center">1</td>
+			<td rowspan="4" align="center">2</td>
+			<td rowspan="4" align="center">15</td>
+			<td rowspan="4" align="center">5</td>
 		</tr>
 		<tr>
-			<td></td>
-			<td></td>
+			<td>Step by Step</td>
+			<td><a href="https://github.com/GICSAFePhD/RailML/tree/main/Layouts/Example_2/Readme.md#step-by-step">Link</a></td>
 		</tr>
 		<tr>
-			<td></td>
-			<td></td>
+			<td>Original table</td>
+			<td><a href="https://github.com/GICSAFePhD/RailML/tree/main/Layouts/Example_2/Readme.md#original-table">Link</a></td>
 		</tr>
 		<tr>
-			<td></td>
-			<td></td>
+			<td>Generated table</td>
+			<td><a href="https://github.com/GICSAFePhD/RailML/tree/main/Layouts/Example_2/Readme.md#generated-table">Link</a></td>
 		</tr>
-    <tr>
-			<td rowspan="4" align="center">8</td>
-			<td></td>
-			<td></td>
-			<td rowspan="4"></td>
-			<td rowspan="4"></td>
-			<td rowspan="4"></td>
-			<td rowspan="4"></td>
-			<td rowspan="4"></td>
-			<td rowspan="4"></td>
-		</tr>
-		<tr>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr>
-			<td></td>
-			<td></td>
-		</tr>
-    <tr>
-			<td rowspan="4" align="center">9</td>
-			<td></td>
-			<td></td>
-			<td rowspan="4"></td>
-			<td rowspan="4"></td>
-			<td rowspan="4"></td>
-			<td rowspan="4"></td>
-			<td rowspan="4"></td>
-			<td rowspan="4"></td>
-		</tr>
-		<tr>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr>
-			<td></td>
-			<td></td>
-		</tr>
+   
 	</tbody>
 </table>
 
