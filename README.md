@@ -187,8 +187,8 @@
 			<td rowspan="4" align="center">0</td>
 			<td rowspan="4" align="center">2</td>
 			<td rowspan="4" align="center">2</td>
-			<td rowspan="4" align="center">13</td>
-			<td rowspan="4" align="center">9</td>
+			<td rowspan="4" align="center">7</td>
+			<td rowspan="4" align="center">3</td>
 		</tr>
 		<tr>
 			<td>Step by Step</td>
@@ -210,8 +210,8 @@
 			<td rowspan="4" align="center">2</td>
 			<td rowspan="4" align="center">0</td>
 			<td rowspan="4" align="center">0</td>
-			<td rowspan="4" align="center">32</td>
-			<td rowspan="4" align="center">28</td>
+			<td rowspan="4" align="center">18</td>
+			<td rowspan="4" align="center">14</td>
 		</tr>
 		<tr>
 			<td>Step by Step</td>
