@@ -87,6 +87,98 @@
 			<td>Generated table</td>
 			<td><a href="https://github.com/GICSAFePhD/RailML/tree/main/Layouts/Example_3/Readme.md#generated-table">Link</a></td>
 		</tr>
+		<tr>
+			<td rowspan="4" align="center">4</td>
+			<td>Description</td>
+			<td><a href="https://github.com/GICSAFePhD/RailML/tree/main/Layouts/Example_4/Readme.md#description">Link</a></td>
+			<td rowspan="4" align="center">47</td>
+			<td rowspan="4" align="center">23</td>
+			<td rowspan="4" align="center">6</td>
+			<td rowspan="4" align="center">0</td>
+			<td rowspan="4" align="center">95</td>
+			<td rowspan="4" align="center">7</td>
+		</tr>
+		<tr>
+			<td>Step by Step</td>
+			<td><a href="https://github.com/GICSAFePhD/RailML/tree/main/Layouts/Example_4/Readme.md#step-by-step">Link</a></td>
+		</tr>
+		<tr>
+			<td>Original table</td>
+			<td><a href="https://github.com/GICSAFePhD/RailML/tree/main/Layouts/Example_4/Readme.md#original-table">Link</a></td>
+		</tr>
+		<tr>
+			<td>Generated table</td>
+			<td><a href="https://github.com/GICSAFePhD/RailML/tree/main/Layouts/Example_4/Readme.md#generated-table">Link</a></td>
+		</tr>
+		<tr>
+			<td rowspan="4" align="center">5</td>
+			<td>Description</td>
+			<td><a href="https://github.com/GICSAFePhD/RailML/tree/main/Layouts/Example_5/Readme.md#description">Link</a></td>
+			<td rowspan="4" align="center">8</td>
+			<td rowspan="4" align="center">4</td>
+			<td rowspan="4" align="center">0</td>
+			<td rowspan="4" align="center">0</td>
+			<td rowspan="4" align="center">24</td>
+			<td rowspan="4" align="center">16</td>
+		</tr>
+		<tr>
+			<td>Step by Step</td>
+			<td><a href="https://github.com/GICSAFePhD/RailML/tree/main/Layouts/Example_5/Readme.md#step-by-step">Link</a></td>
+		</tr>
+		<tr>
+			<td>Original table</td>
+			<td><a href="https://github.com/GICSAFePhD/RailML/tree/main/Layouts/Example_5/Readme.md#original-table">Link</a></td>
+		</tr>
+		<tr>
+			<td>Generated table</td>
+			<td><a href="https://github.com/GICSAFePhD/RailML/tree/main/Layouts/Example_5/Readme.md#generated-table">Link</a></td>
+		</tr>
+		<tr>
+			<td rowspan="4" align="center">6</td>
+			<td>Description</td>
+			<td><a href="https://github.com/GICSAFePhD/RailML/tree/main/Layouts/Example_6/Readme.md#description">Link</a></td>
+			<td rowspan="4" align="center">11</td>
+			<td rowspan="4" align="center">5</td>
+			<td rowspan="4" align="center">0</td>
+			<td rowspan="4" align="center">0</td>
+			<td rowspan="4" align="center">30</td>
+			<td rowspan="4" align="center">16</td>
+		</tr>
+		<tr>
+			<td>Step by Step</td>
+			<td><a href="https://github.com/GICSAFePhD/RailML/tree/main/Layouts/Example_6/Readme.md#step-by-step">Link</a></td>
+		</tr>
+		<tr>
+			<td>Original table</td>
+			<td><a href="https://github.com/GICSAFePhD/RailML/tree/main/Layouts/Example_6/Readme.md#original-table">Link</a></td>
+		</tr>
+		<tr>
+			<td>Generated table</td>
+			<td><a href="https://github.com/GICSAFePhD/RailML/tree/main/Layouts/Example_6/Readme.md#generated-table">Link</a></td>
+		</tr>
+		<tr>
+			<td rowspan="4" align="center">7</td>
+			<td>Description</td>
+			<td><a href="https://github.com/GICSAFePhD/RailML/tree/main/Layouts/Example_7/Readme.md#description">Link</a></td>
+			<td rowspan="4" align="center">7</td>
+			<td rowspan="4" align="center">3</td>
+			<td rowspan="4" align="center">0</td>
+			<td rowspan="4" align="center">0</td>
+			<td rowspan="4" align="center">17</td>
+			<td rowspan="4" align="center">8</td>
+		</tr>
+		<tr>
+			<td>Step by Step</td>
+			<td><a href="https://github.com/GICSAFePhD/RailML/tree/main/Layouts/Example_7/Readme.md#step-by-step">Link</a></td>
+		</tr>
+		<tr>
+			<td>Original table</td>
+			<td><a href="https://github.com/GICSAFePhD/RailML/tree/main/Layouts/Example_7/Readme.md#original-table">Link</a></td>
+		</tr>
+		<tr>
+			<td>Generated table</td>
+			<td><a href="https://github.com/GICSAFePhD/RailML/tree/main/Layouts/Example_7/Readme.md#generated-table">Link</a></td>
+		</tr>
 	</tbody>
 </table>
 
