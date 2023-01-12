@@ -64,7 +64,29 @@
 			<td>Generated table</td>
 			<td><a href="https://github.com/GICSAFePhD/RailML/tree/main/Layouts/Example_2/Readme.md#generated-table">Link</a></td>
 		</tr>
-   
+		<tr>
+			<td rowspan="4" align="center">3</td>
+			<td>Description</td>
+			<td><a href="https://github.com/GICSAFePhD/RailML/tree/main/Layouts/Example_3/Readme.md#description">Link</a></td>
+			<td rowspan="4" align="center">74</td>
+			<td rowspan="4" align="center">21</td>
+			<td rowspan="4" align="center">3</td>
+			<td rowspan="4" align="center">13</td>
+			<td rowspan="4" align="center">94</td>
+			<td rowspan="4" align="center">35</td>
+		</tr>
+		<tr>
+			<td>Step by Step</td>
+			<td><a href="https://github.com/GICSAFePhD/RailML/tree/main/Layouts/Example_3/Readme.md#step-by-step">Link</a></td>
+		</tr>
+		<tr>
+			<td>Original table</td>
+			<td><a href="https://github.com/GICSAFePhD/RailML/tree/main/Layouts/Example_3/Readme.md#original-table">Link</a></td>
+		</tr>
+		<tr>
+			<td>Generated table</td>
+			<td><a href="https://github.com/GICSAFePhD/RailML/tree/main/Layouts/Example_3/Readme.md#generated-table">Link</a></td>
+		</tr>
 	</tbody>
 </table>
 
