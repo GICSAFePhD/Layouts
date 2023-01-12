@@ -22,12 +22,12 @@
 			<td rowspan="4" align="center">1</td>
 			<td>Description</td>
 			<td><a href="https://github.com/GICSAFePhD/RailML/tree/main/Layouts/Example_1/Readme.md#description">Link</a></td>
-			<td rowspan="4"></td>
-			<td rowspan="4"></td>
-			<td rowspan="4"></td>
-			<td rowspan="4"></td>
-			<td rowspan="4"></td>
-			<td rowspan="4"></td>
+			<td rowspan="4" align="center">11</td>
+			<td rowspan="4" align="center">5</td>
+			<td rowspan="4" align="center">2</td>
+			<td rowspan="4" align="center">2</td>
+			<td rowspan="4" align="center">29</td>
+			<td rowspan="4" align="center">14</td>
 		</tr>
 		<tr>
 			<td>Step by Step</td>
