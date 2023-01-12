@@ -4,17 +4,240 @@
 > [Source-code](https://github.com/GICSAFePhD/Layouts/blob/main/README.md#source-code)
 
 > [Usage](https://github.com/GICSAFePhD/Layouts/blob/main/README.md#Usage)
-
+  
+<table>
+	<tbody>
+		<tr>
+			<td>Examples</td>
+			<td>Section</td>
+			<td>URL</td>
+			<td># Tracks</td>
+			<td># Switches</td>
+			<td># Crossings</td>
+			<td># Platforms</td>
+			<td># Signals</td>
+			<td># Routes</td>
+		</tr>
+		<tr>
+			<td rowspan="4" align="center">1</td>
+			<td>Description</td>
+			<td><a href="https://github.com/GICSAFePhD/RailML/tree/main/Layouts/Example_1/Readme.md#description">Link</a></td>
+			<td rowspan="4"></td>
+			<td rowspan="4"></td>
+			<td rowspan="4"></td>
+			<td rowspan="4"></td>
+			<td rowspan="4"></td>
+			<td rowspan="4"></td>
+		</tr>
+		<tr>
+			<td>Step by Step</td>
+			<td><a href="https://github.com/GICSAFePhD/RailML/tree/main/Layouts/Example_1/Readme.md#step-by-step">Link</a></td>
+		</tr>
+		<tr>
+			<td>Original table</td>
+			<td><a href="https://github.com/GICSAFePhD/RailML/tree/main/Layouts/Example_1/Readme.md#original-table">Link</a></td>
+		</tr>
+		<tr>
+			<td>Generated table</td>
+			<td><a href="https://github.com/GICSAFePhD/RailML/tree/main/Layouts/Example_1/Readme.md#generated-table">Link</a></td>
+		</tr>
+		<tr>
+			<td rowspan="4" align="center">2</td>
+			<td></td>
+			<td></td>
+			<td rowspan="4" align="center">11</td>
+			<td rowspan="4" align="center">5</td>
+			<td rowspan="4" align="center">2</td>
+			<td rowspan="4" align="center">2</td>
+			<td rowspan="4" align="center">29</td>
+			<td rowspan="4" align="center">14</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+		</tr>
+    <tr>
+			<td rowspan="4" align="center">3</td>
+			<td></td>
+			<td></td>
+			<td rowspan="4"></td>
+			<td rowspan="4"></td>
+			<td rowspan="4"></td>
+			<td rowspan="4"></td>
+			<td rowspan="4"></td>
+			<td rowspan="4"></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+		</tr>
+    <tr>
+			<td rowspan="4" align="center">4</td>
+			<td></td>
+			<td></td>
+			<td rowspan="4"></td>
+			<td rowspan="4"></td>
+			<td rowspan="4"></td>
+			<td rowspan="4"></td>
+			<td rowspan="4"></td>
+			<td rowspan="4"></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+		</tr>
+    <tr>
+			<td rowspan="4" align="center">5</td>
+			<td></td>
+			<td></td>
+			<td rowspan="4"></td>
+			<td rowspan="4"></td>
+			<td rowspan="4"></td>
+			<td rowspan="4"></td>
+			<td rowspan="4"></td>
+			<td rowspan="4"></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+		</tr>
+    <tr>
+			<td rowspan="4" align="center">6</td>
+			<td></td>
+			<td></td>
+			<td rowspan="4"></td>
+			<td rowspan="4"></td>
+			<td rowspan="4"></td>
+			<td rowspan="4"></td>
+			<td rowspan="4"></td>
+			<td rowspan="4"></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+		</tr>
+    <tr>
+			<td rowspan="4" align="center">7</td>
+			<td></td>
+			<td></td>
+			<td rowspan="4"></td>
+			<td rowspan="4"></td>
+			<td rowspan="4"></td>
+			<td rowspan="4"></td>
+			<td rowspan="4"></td>
+			<td rowspan="4"></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+		</tr>
+    <tr>
+			<td rowspan="4" align="center">8</td>
+			<td></td>
+			<td></td>
+			<td rowspan="4"></td>
+			<td rowspan="4"></td>
+			<td rowspan="4"></td>
+			<td rowspan="4"></td>
+			<td rowspan="4"></td>
+			<td rowspan="4"></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+		</tr>
+    <tr>
+			<td rowspan="4" align="center">9</td>
+			<td></td>
+			<td></td>
+			<td rowspan="4"></td>
+			<td rowspan="4"></td>
+			<td rowspan="4"></td>
+			<td rowspan="4"></td>
+			<td rowspan="4"></td>
+			<td rowspan="4"></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+		</tr>
+	</tbody>
+</table>
 
 <table bakground="FFF">
-<tr> <td><b>Example</b></td> <td><b>Section</b></td> <td><b>Repository URL</b></td> </tr>
+<tr> <td><b>Example</b></td> <td><b>Section</b></td> <td><b>URL</b></td> <td><b>A</b></td></tr>
 <!-- Pegar tabla de excel inicio -->
 <tr><td rowspan="4" align="center">1</td>
-<td>Description</td><td><a href="https://github.com/GICSAFePhD/RailML/tree/main/Layouts/Example_1/Readme.md#description">Link</a></td></tr>
-<tr><td>Step by step</td><td><a href="https://github.com/GICSAFePhD/RailML/tree/main/Layouts/Example_1/Readme.md#step-by-step">Link</a></td></tr>
-<tr><td>Original table</td><td><a href="https://github.com/GICSAFePhD/RailML/tree/main/Layouts/Example_1/Readme.md#original-table">Link</a></td></tr>
-<tr><td>Generated table</td><td><a href="https://github.com/GICSAFePhD/RailML/tree/main/Layouts/Example_1/Readme.md#generated-table">Link</a></td></tr>
-
+<td>Description</td><td><a href="https://github.com/GICSAFePhD/RailML/tree/main/Layouts/Example_1/Readme.md#description">Link</a></td>
+<tr><td>Step by step</td><td><a href="https://github.com/GICSAFePhD/RailML/tree/main/Layouts/Example_1/Readme.md#step-by-step">Link</a></td>
+<tr><td>Original table</td><td><a href="https://github.com/GICSAFePhD/RailML/tree/main/Layouts/Example_1/Readme.md#original-table">Link</a></td>
+<tr><td>Generated table</td><td><a href="https://github.com/GICSAFePhD/RailML/tree/main/Layouts/Example_1/Readme.md#generated-table">Link</a></td>
+<td rowspan="4" align="center">1</td>
+  
 <tr><td rowspan="4" align="center">2</td>
 <td>Description</td><td><a href="https://github.com/GICSAFePhD/RailML/tree/main/Layouts/Example_2/Readme.md#description">Link</a></td></tr>
 <tr><td>Step by step</td><td><a href="https://github.com/GICSAFePhD/RailML/tree/main/Layouts/Example_2/Readme.md#step-by-step">Link</a></td></tr>
