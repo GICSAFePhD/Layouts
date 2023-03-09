@@ -492,9 +492,9 @@
 					<name name="H34" language="en"/>
 				</signalIS>
 				<signalIS isSwitchable="false" id="sig36">
-					<signalConstruction positionAtTrack="right" type="light"/>
+					<signalConstruction positionAtTrack="left" type="light"/>
 					<designator register="_Example" entry="SIGNAL S36"/>
-					<spotLocation netElementRef="ne42" intrinsicCoord="0.9193" applicationDirection="reverse" id="sig36_sloc01"/>
+					<spotLocation netElementRef="ne42" intrinsicCoord="0.9193" applicationDirection="normal" id="sig36_sloc01"/>
 					<name name="B36" language="en"/>
 				</signalIS>
 				<signalIS isSwitchable="false" id="sig37">
