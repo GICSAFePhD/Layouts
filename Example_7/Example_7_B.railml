@@ -291,6 +291,12 @@
 					<spotLocation netElementRef="ne41" intrinsicCoord="0.8937" applicationDirection="normal" id="sig18_sloc01"/>
 					<name name="B18" language="en"/>
 				</signalIS>
+				<signalIS isSwitchable="false" id="sig20">
+					<signalConstruction positionAtTrack="right" type="light"/>
+					<designator register="_Example" entry="SIGNAL S20"/>
+					<spotLocation netElementRef="ne42" intrinsicCoord="0.3333" applicationDirection="reverse" id="sig20_sloc01"/>
+					<name name="H20" language="en"/>
+				</signalIS>
 			</signalsIS>
 			<switchesIS>
 				<switchIS type="ordinarySwitch" continueCourse="left" branchCourse="right" id="swi34">
@@ -470,6 +476,10 @@
 					<coordinate x="550.0" y="30"/>
 					<name name="S18" language="en"/>
 				</spotElementProjection>
+				<spotElementProjection refersToElement="sig20" id="vis01_sep21">
+					<coordinate x="1270.0" y="420"/>
+					<name name="S20" language="en"/>
+				</spotElementProjection>
 				<linearElementProjection refersToElement="ne1" id="vis01_lep1">
 					<coordinate x="-770.294" y="30.000"/>
 					<coordinate x="260.294" y="30.000"/>
@@ -566,6 +576,9 @@
 				</signalIL>
 				<signalIL releaseSpeed="0" approachSpeed="0" passingSpeed="0" isVirtual="false" id="il_sig18">
 					<refersTo ref="sig18"/>
+				</signalIL>
+				<signalIL releaseSpeed="0" approachSpeed="0" passingSpeed="0" isVirtual="false" id="il_sig20">
+					<refersTo ref="sig20"/>
 				</signalIL>
 			</signalsIL>
 		</assetsForIL>
